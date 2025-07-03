@@ -95,14 +95,6 @@
 
 ---
 
-<h2>🏆 GitHub Trophies</h2>
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=ranashardul&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
-
 <h2>💬 Dev Quote</h2>
 
 <p>
