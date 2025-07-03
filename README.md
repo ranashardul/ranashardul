@@ -110,9 +110,4 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ranashardul&icon=1&color=4" />
-</p>
-
 <!-- Proudly crafted by Shardul Rana -->
