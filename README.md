@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi there, I'm Shardul Rana!
 
-<!--
-**ranashardul/ranashardul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science Undergrad, passionate about building impactful software and solving real-world problems using AI, web development, and data analytics.  
+💡 I love exploring new technologies and applying them to projects that blend innovation with practical use.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with me
+
+- [LinkedIn](www.linkedin.com/in/shardul-rana)
+- [Instagram](https://www.instagram.com/shardul.rana?igsh=c3Q0dWVpZXF2YjE3)
+
+---
