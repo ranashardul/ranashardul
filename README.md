@@ -39,9 +39,4 @@
 
 ---
 
-## 🌍 3D Contributions Globe (GitHub Pages)
-A rotating 3D globe is hosted via GitHub Pages from the `docs/` folder. Visit: `https://ranashardul.github.io/<repo-name>/` after enabling Pages (the site auto-deploys from `docs/`).
-
----
-
 <h4 align="center">✨ Proudly crafted by Shardul Rana ✨</h4>
