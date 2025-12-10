@@ -33,40 +33,6 @@
 
 ---
 
-## 🚀 Featured Projects
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/ranashardul/Shopez" target="_blank">
-        <strong>Shopez</strong><br/>
-        Full-stack MERN e-commerce app
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/ranashardul/TVDS" target="_blank">
-        <strong>Traffic Violation Detector</strong><br/>
-        CNN + OpenCV real-time violation detection
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/ranashardul/portfolio" target="_blank">
-        <strong>Portfolio Website</strong><br/>
-        Personal website & projects showcase
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranashardul&theme=tokyonight&show_icons=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranashardul&theme=tokyonight" height="150"/>
-</p>
-
----
-
 ## 💬 Developer Quote
 <p align="center">
   <em>"Code is like humor. When you have to explain it, it’s bad."</em><br/>
@@ -78,5 +44,3 @@
 <p align="center">✨ Proudly crafted by Shardul Rana ✨</p>
 
 ---
-
-<h4 align="center">✨ Proudly crafted by Shardul Rana ✨</h4>
