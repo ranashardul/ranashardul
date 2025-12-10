@@ -76,3 +76,7 @@
 ---
 
 <p align="center">✨ Proudly crafted by Shardul Rana ✨</p>
+
+---
+
+<h4 align="center">✨ Proudly crafted by Shardul Rana ✨</h4>
