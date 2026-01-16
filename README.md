@@ -1,6 +1,5 @@
 <!-- README.md -->
-<h1 align="center">👋 Hi, I'm <span style="color:#ff4c60;">Shardul Rana</span></h1>
-<p align="center">💻 CS Undergrad • 🌐 Full-Stack Developer • 🤖 Data & AI Enthusiast</p>
+![Header](./header-banner.png)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=ff4c60&center=true&vCenter=true&width=680&lines=Full+Stack+Developer;Data+Science+%26+AI+Enthusiast;Building+Scalable+Systems" alt="typing"/>
