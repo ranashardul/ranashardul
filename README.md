@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 ![Header](./header-banner.png)
 
 <p align="center">
